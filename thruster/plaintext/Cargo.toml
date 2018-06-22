@@ -1,0 +1,8 @@
+[package]
+name = "thruster-plaintext-server"
+version = "0.1.0"
+authors = ["Vlad Frolov <frolvlad@gmail.com>"]
+
+[dependencies]
+thruster = { git = 'https://github.com/trezm/Thruster.git' }
+futures = "0.1.0"

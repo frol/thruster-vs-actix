@@ -1,0 +1,7 @@
+[package]
+name = "actix-plaintext-server"
+version = "0.1.0"
+authors = ["Vlad Frolov <frolvlad@gmail.com>"]
+
+[dependencies]
+actix-web = "0.6.14"
